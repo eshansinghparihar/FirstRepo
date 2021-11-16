@@ -1,0 +1,17 @@
+[
+{
+    "employeeName":"ABC",
+    "phNo":"+919988776655",
+    "domain":"Mulesoft"
+},
+{
+    "employeeName":"XYZ",
+    "phNo":"+919911223344",
+    "domain":"Salesforce"
+},
+{
+    "employeeName":"GHI",
+    "phNo":"+918877123344",
+    "domain":"Snowflake"
+}
+]
