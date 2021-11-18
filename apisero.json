@@ -1,5 +1,4 @@
-[
-{
+[{
     "employeeName":"ABC",
     "phNo":"+919988776655",
     "domain":"Mulesoft"
@@ -13,5 +12,4 @@
     "employeeName":"GHI",
     "phNo":"+918877123344",
     "domain":"Snowflake"
-}
-]
+}]
